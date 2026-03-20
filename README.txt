@@ -1,12 +1,6 @@
-# 🌳 Árbol de Expresiones en Java
+Árbol de Expresiones en Java
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
-![Nivel](https://img.shields.io/badge/Nivel-Académico-blue?style=for-the-badge)
-
----
-
-## 📌 Descripción
+📌 Descripción
 
 Este proyecto implementa un sistema en Java que permite trabajar con expresiones matemáticas utilizando estructuras de datos como pilas (Stack) y árboles binarios.
 
@@ -20,7 +14,7 @@ El sistema recibe una expresión en formato infijo y realiza:
 
 ---
 
-## 🚀 Funcionalidades
+🚀 Funcionalidades
 
 - Conversión de expresión infija a postfija  
 - Construcción de árbol binario de expresión  
@@ -33,7 +27,7 @@ El sistema recibe una expresión en formato infijo y realiza:
 
 ---
 
-## 🧠 Conceptos aplicados
+🧠 Conceptos aplicados
 
 - Pilas (Stack)  
 - Árboles binarios  
@@ -43,9 +37,9 @@ El sistema recibe una expresión en formato infijo y realiza:
 
 ---
 
-## 🖥️ Ejemplo de uso
+🖥️ Ejemplo de uso
 
-### Entrada:
+Entrada:
 ```bash
 a+b
 Valores:
@@ -67,14 +61,13 @@ Resultado: 5
 ⚙️ Cómo ejecutar
 
 Clonar repositorio:
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/ItsRomero/Proyecto-I.git
 Abrir en un IDE:
 NetBeans
 IntelliJ
 Eclipse
-Ejecutar:
+Ejecutar: ArbolExpresion.java
 
-ArbolExpresion.java
 🧪 Expresiones de prueba
 a+b
 (a+b)*c
